@@ -10,12 +10,12 @@
   - [ ] [7. Late Ride](./Intro%20Gates/7.Late%20Ride/)
   - [ ] [8. Phone Call](./Intro%20Gates/8.Phone%20Call/)
 - [ ] At the Crossroads
-  - [ ] 9. Reach Next Level
-  - [ ] 10. Knapsack Light
-  - [ ] 11. Extra Number
-  - [ ] 12. Is Infinite Process?
-  - [ ] 13. Arithmetic Expression
-  - [ ] 14. Tennis Set
-  - [ ] 15. Will You?
-  - [ ] 16. Metro Card
+  - [ ] [9. Reach Next Level](./At%20the%20Crossroads/9.Reach%20Next%20Level/)
+  - [ ] [10. Knapsack Light](./At%20the%20Crossroads/10.Knapsack%20Light/)
+  - [ ] [11. Extra Number](./At%20the%20Crossroads/11.Extra%20Number/)
+  - [ ] [12. Is Infinite Process?](./At%20the%20Crossroads/12.Is%20Infinite%20Process?/)
+  - [ ] [13. Arithmetic Expression](./At%20the%20Crossroads/13.Arithmetic%20Expression/)
+  - [ ] [14. Tennis Set](./At%20the%20Crossroads/14.Tennis%20Set/)
+  - [ ] [15. Will You?](./At%20the%20Crossroads/15.Will%20You?/)
+  - [ ] [16. Metro Card](./At%20the%20Crossroads/16.Metro%20Card/)
 - [ ] Corner of 0s and 1s
