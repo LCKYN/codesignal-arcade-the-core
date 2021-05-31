@@ -1,6 +1,6 @@
 # codesignal arcade the core
 
-- [ ] Intro Gates
+- [ ] [Intro Gates](./Intro%20Gates)
   - [ ] 1. Add Two Digits
   - [ ] 2. Largest Number
   - [ ] 3. Candies
