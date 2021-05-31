@@ -19,3 +19,5 @@
   - [ ] [15. Will You?](./At%20the%20Crossroads/15.Will%20You?/)
   - [ ] [16. Metro Card](./At%20the%20Crossroads/16.Metro%20Card/)
 - [ ] Corner of 0s and 1s
+  - [ ] [17. Kill K-th Bit](./Corner%20of%200s%20and%201s/17.Kill%20K-th%20Bit/)
+  - [ ] [18. Array Packing](./Corner%20of%200s%20and%201s/18.Array%20Packing/)
