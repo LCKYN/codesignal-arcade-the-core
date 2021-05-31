@@ -2,13 +2,13 @@
 
 - [ ] [Intro Gates](./Intro%20Gates)
   - [ ] [1. Add Two Digits](./Intro%20Gates/1.Add%20Two%20Digits/)
-  - [ ] 2. Largest Number
-  - [ ] 3. Candies
-  - [ ] 4. Seats in Theater
-  - [ ] 5. Max Multiple
-  - [ ] 6. Circle of Numbers
-  - [ ] 7. Late Ride
-  - [ ] 8. Phone Call
+  - [ ] [2. Largest Number](./Intro%20Gates/2.Largest%20Number/)
+  - [ ] [3. Candies](./Intro%20Gates/3.Candies/)
+  - [ ] [4. Seats in Theater](./Intro%20Gates/4.Seats%20in%20Theater/)
+  - [ ] [5. Max Multiple](./Intro%20Gates/5.Max%20Multiple/)
+  - [ ] [6. Circle of Numbers](./Intro%20Gates/6.Circle%20of%20Numbers/)
+  - [ ] [7. Late Ride](./Intro%20Gates/7.Late%20Ride/)
+  - [ ] [8. Phone Call](./Intro%20Gates/8.Phone%20Call/)
 - [ ] At the Crossroads
   - [ ] 9. Reach Next Level
   - [ ] 10. Knapsack Light
